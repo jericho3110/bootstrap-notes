@@ -1,0 +1,1 @@
+container-fluid: use it to make the responsive page manually adjust the size when resizing the page.
